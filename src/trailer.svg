@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <!-- Rectangle with curved edges -->
+  <rect x="0" y="0" width="120" height="40" rx="10" ry="10" fill="#f9d3b4" />
+
+  <!-- Text inside the rectangle -->
+  <text x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-family="Arial" font-size="12" fill="#212426">
+    Watch Trailer
+  </text>
+</svg>
